@@ -12,6 +12,10 @@ Then I run the command `ssh Tony`. `code`
 ### Show an scp command copying a file to your account using just the alias you chose.
 <img width="872" alt="Screen Shot 2022-05-08 at 8 25 58 PM" src="https://user-images.githubusercontent.com/64039891/167335734-29e8cd19-990a-4456-84dc-c1635e097857.png">
 I created a random file, and used the `scp` command to copy it over to ieng6.
+* As you can see above, I created a random file, and used the `scp` command to copy it over to ieng6.
+
+
+
 ## Prompt 2: SetupGithubAccessfromieng6
 
 
