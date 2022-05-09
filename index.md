@@ -19,6 +19,13 @@ I created a random file, and used the `scp` command to copy it over to ieng6.
 
 ## Prompt 2: SetupGithubAccessfromieng6
 
+### Show where the public key you made is stored on Github and in your user account (screenshot).
+<img width="1199" alt="Screen Shot 2022-05-08 at 9 26 46 PM" src="https://user-images.githubusercontent.com/64039891/167340659-70f305c1-6e85-419b-9255-f2bd3bdec1ed.png">
+
+### Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
+<img width="532" alt="Screen Shot 2022-05-08 at 9 26 37 PM" src="https://user-images.githubusercontent.com/64039891/167340713-fa1f7c49-874c-450f-959b-05a1af912ee2.png">
+
+### Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
 
 ## Prompt 3: Copy whole directories with scp -r
