@@ -7,7 +7,7 @@ The above image is the config file in the .ssh folder. It was edited through the
 
 ### Show the ssh command logging you into your account using just the alias you chose.
 <img width="737" alt="Screen Shot 2022-05-08 at 8 21 01 PM" src="https://user-images.githubusercontent.com/64039891/167335660-e3539344-aa35-48b7-9b85-947f5d050092.png">
-Then I run the command `ssh sven` 
+Then I run the command `ssh Tony`
 
 ### Show an scp command copying a file to your account using just the alias you chose.
 <img width="872" alt="Screen Shot 2022-05-08 at 8 25 58 PM" src="https://user-images.githubusercontent.com/64039891/167335734-29e8cd19-990a-4456-84dc-c1635e097857.png">
