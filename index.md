@@ -28,6 +28,7 @@ I created a random file, and used the `scp` command to copy it over to ieng6.
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
 * Show a link for the resulting commit.
+* 
 [here](https://github.com/letocassius/lab-report-3-week-6)
 
 
