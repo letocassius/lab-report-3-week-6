@@ -26,9 +26,10 @@ I created a random file, and used the `scp` command to copy it over to ieng6.
 <img width="532" alt="Screen Shot 2022-05-08 at 9 26 37 PM" src="https://user-images.githubusercontent.com/64039891/167340713-fa1f7c49-874c-450f-959b-05a1af912ee2.png">
 
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
+<img width="694" alt="image" src="https://user-images.githubusercontent.com/64039891/167482388-2df7161a-8b6c-4cdc-a0a8-37ace6fb4624.png">
 
 * Show a link for the resulting commit.
-* 
+
 [here](https://github.com/letocassius/lab-report-3-week-6)
 
 
