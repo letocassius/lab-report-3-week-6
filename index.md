@@ -39,7 +39,10 @@ I created a random file, and used the `scp` command to copy it over to ieng6.
 
 * Show logging into your ieng6 account after doing this and compiling and running the tests for your repository.
 <img width="1013" alt="Screen Shot 2022-05-08 at 11 30 50 PM" src="https://user-images.githubusercontent.com/64039891/167352899-ded758a9-4c20-4024-9906-f24d8293365b.png">
+<img width="924" alt="Screen Shot 2022-05-16 at 8 43 34 PM" src="https://user-images.githubusercontent.com/64039891/168724617-58e27f14-4a0e-4c88-890f-d78b8cad1944.png">
+
 
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 <img width="966" alt="Screen Shot 2022-05-08 at 11 37 04 PM" src="https://user-images.githubusercontent.com/64039891/167353643-6c4e7b3c-f218-4338-8f2f-85961ee8f41e.png">
+<img width="933" alt="Screen Shot 2022-05-16 at 8 46 21 PM" src="https://user-images.githubusercontent.com/64039891/168724623-590edded-6eef-450e-b57d-7751ec6bb7b1.png">
 
